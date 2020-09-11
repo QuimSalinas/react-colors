@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-colors/static/css/main.36a7d862.chunk.css",
+    "main.js": "/react-colors/static/js/main.b969c3dc.chunk.js",
+    "main.js.map": "/react-colors/static/js/main.b969c3dc.chunk.js.map",
+    "runtime-main.js": "/react-colors/static/js/runtime-main.c895aa97.js",
+    "runtime-main.js.map": "/react-colors/static/js/runtime-main.c895aa97.js.map",
+    "static/css/2.2a4460b4.chunk.css": "/react-colors/static/css/2.2a4460b4.chunk.css",
+    "static/js/2.cbec28aa.chunk.js": "/react-colors/static/js/2.cbec28aa.chunk.js",
+    "static/js/2.cbec28aa.chunk.js.map": "/react-colors/static/js/2.cbec28aa.chunk.js.map",
+    "index.html": "/react-colors/index.html",
+    "precache-manifest.64a4a192e2df684b05398089ca27fac6.js": "/react-colors/precache-manifest.64a4a192e2df684b05398089ca27fac6.js",
+    "service-worker.js": "/react-colors/service-worker.js",
+    "static/css/2.2a4460b4.chunk.css.map": "/react-colors/static/css/2.2a4460b4.chunk.css.map",
+    "static/css/main.36a7d862.chunk.css.map": "/react-colors/static/css/main.36a7d862.chunk.css.map",
+    "static/js/2.cbec28aa.chunk.js.LICENSE.txt": "/react-colors/static/js/2.cbec28aa.chunk.js.LICENSE.txt",
+    "static/media/bg.svg": "/react-colors/static/media/bg.6fd115e2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c895aa97.js",
+    "static/css/2.2a4460b4.chunk.css",
+    "static/js/2.cbec28aa.chunk.js",
+    "static/css/main.36a7d862.chunk.css",
+    "static/js/main.b969c3dc.chunk.js"
+  ]
+}
